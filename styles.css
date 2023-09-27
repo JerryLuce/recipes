@@ -1,0 +1,19 @@
+* {
+    box-sizing: content-box;
+    background-color: #201f1f;
+    text-align: center;
+    color: white;
+}
+
+.RecipeLinks a{
+    background-color: lightcoral;
+    color: white;
+    padding: 10px 10px;
+    margin: 10px auto;
+    text-decoration: none;
+    display: block;
+}
+
+.RecipeLinks a:hover{
+    background-color: #f44336;
+}
